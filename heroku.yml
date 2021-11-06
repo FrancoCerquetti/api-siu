@@ -1,3 +1,2 @@
-build:
-  run:
+run:
     web: java -jar build/libs/api-siu-*.jar
